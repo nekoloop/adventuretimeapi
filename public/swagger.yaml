@@ -1,0 +1,115 @@
+swagger: '2.0'
+info:
+  title: Adventure time API
+  description: |
+    # Adventure Time API
+      The Adventure Time API in development version.
+
+  version: 1.0.0
+  x-logo:
+    url: ./images/logo.png
+    backgroundColor: '#FFFFFF'
+host: adventuretimeapi.herokuapp.com
+schemes:
+  - https
+x-tagGroups:
+  - name: Endpoints
+    tags:
+      - People
+basePath: /
+produces:
+  - application/json
+paths:
+  /people:
+    get:
+      summary: Return all people
+      description: >
+        The People endpoint returns information about all of people.
+      tags:
+        - People
+      parameters:
+        - fields: null
+          name: fields
+          in: query
+          description: comma-separated list of fields to include in the response
+          required: false
+          type: string
+        - limit: null
+          name: limit
+          in: query
+          required: false
+          description: amount of results (default 50) (maximum 250)
+          type: integer
+          format: int64
+      x-code-samples:
+        - lang: curl
+          source: >
+            curl -X GET -H "Content-Type: application/json"
+            https://adventuretimeapi.herokuapp.com/people
+        - lang: Ruby
+          source: |
+            require 'net/http'
+
+            uri = URI('https://adventuretimeapi.herokuapp.com/people')
+            Net::HTTP.get(uri) # => String
+        - lang: Python
+          source: |
+            import urllib2
+
+            urllib2.urlopen('https://adventuretimeapi.herokuapp.com/people').read()
+      responses:
+        '200':
+          description: An array of people
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/People'
+          examples:
+            application/json:
+              - id: a10f64f3-e0b6-4a94-bf30-87ad8bc51607
+                nick_name: Finn
+                name: Finn Mertens
+                gender: Male
+                species:
+                  - Human
+                relatives:
+                  - Jake
+                url: ''
+              - id: a10f64f3-e0b6-4a94-bf30-87ad8bc51607
+                nick_name: Jake
+                name: Jake the Dog
+                gender: Male
+                species:
+                  - Dog
+                relatives:
+                  - Finn
+                url: ''
+        '400':
+          description: Bad request
+        '404':
+          description: Not found
+definitions:
+  People:
+    type: object
+    properties:
+      id:
+        type: string
+        description: Unique identifier representing a specific person
+      nick_name:
+        type: string
+        description: Nickname of the person
+      name:
+        type: string
+        description: Name of the person
+      gender:
+        type: string
+        description: Gender of the person
+      species:
+        type: array
+        description: Species of the person
+      relatives:
+        type: array
+        description: Relatives of the person
+      url:
+        type: string
+        description: URL of person

@@ -1,0 +1,16 @@
+{
+  "name": "adventure-time-api",
+  "version": "1.0.0",
+  "description": "Adventure Time API",
+  "license": "MIT",
+  "author": "Nguyen Hoang Anh Nguyen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "clone": "^2.1.1",
+    "json-server": "^0.10.1",
+    "swagger-jsdoc": "^1.9.4"
+  }
+}
