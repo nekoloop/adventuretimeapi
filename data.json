@@ -50,172 +50,130 @@
       "url": "https://adventuretimeapi.herokuapp.com/people/4jXl"
     },
     {
-      "name": "",
-      "fullname": "",
+      "name": "Marceline",
+      "fullname": "Marceline Abadeer",
       "gender": "Female",
       "id": "xAMz",
       "url": "https://adventuretimeapi.herokuapp.com/people/xAMz"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Flame King",
+      "fullname": "Flame King",
+      "gender": "Male",
       "id": "Bk4N",
       "url": "https://adventuretimeapi.herokuapp.com/people/Bk4N"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Flame Princess",
+      "fullname": "Phoebe",
+      "gender": "Female",
       "id": "mVq1",
       "url": "https://adventuretimeapi.herokuapp.com/people/mVq1"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Fire Wolves",
+      "fullname": "Fire Wolves",
+      "gender": "N/A",
       "id": "2Qyp",
       "url": "https://adventuretimeapi.herokuapp.com/people/2Qyp"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Flambo",
+      "fullname": "Flambo",
+      "gender": "Male",
       "id": "1yJP",
       "url": "https://adventuretimeapi.herokuapp.com/people/1yJP"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Cinnamon Bun",
+      "fullname": "Cinnamon Bun",
+      "gender": "Male",
       "id": "3Bwx",
       "url": "https://adventuretimeapi.herokuapp.com/people/3Bwx"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Neptr",
+      "fullname": "Never Ending Pie Throwing Robot",
+      "gender": "N/A",
       "id": "XBKJ",
       "url": "https://adventuretimeapi.herokuapp.com/people/XBKJ"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Ash",
+      "fullname": "Ash",
+      "gender": "Male",
       "id": "8RlJ",
       "url": "https://adventuretimeapi.herokuapp.com/people/8RlJ"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Lorraine",
+      "fullname": "Lorraine",
+      "gender": "Female",
       "id": "RP5w",
       "url": "https://adventuretimeapi.herokuapp.com/people/RP5w"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "CMO",
+      "fullname": "CMO",
+      "gender": "N/A",
       "id": "arPo",
       "url": "https://adventuretimeapi.herokuapp.com/people/arPo"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Sea Lard",
+      "fullname": "Sea Lard",
+      "gender": "N/A",
       "id": "wQW3",
       "url": "https://adventuretimeapi.herokuapp.com/people/wQW3"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Shelby",
+      "fullname": "Shelby Butterson",
+      "gender": "Male",
       "id": "W04g",
       "url": "https://adventuretimeapi.herokuapp.com/people/W04g"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Lionel",
+      "fullname": "Lionel",
+      "gender": "Male",
       "id": "VPoe",
       "url": "https://adventuretimeapi.herokuapp.com/people/VPoe"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Fern",
+      "fullname": "Fern",
+      "gender": "Male",
       "id": "q3aW",
       "url": "https://adventuretimeapi.herokuapp.com/people/q3aW"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Hunson Abadeer",
+      "fullname": "Hunson Abadeer",
+      "gender": "Male",
       "id": "JA35",
       "url": "https://adventuretimeapi.herokuapp.com/people/JA35"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Gunter",
+      "fullname": "Gunter",
+      "gender": "Male",
       "id": "DkQg",
       "url": "https://adventuretimeapi.herokuapp.com/people/DkQg"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Snow Golem",
+      "fullname": "Snow Golem",
+      "gender": "Male",
       "id": "OPVn",
       "url": "https://adventuretimeapi.herokuapp.com/people/OPVn"
     },
     {
-      "name": "",
-      "fullname": "",
-      "gender": "",
+      "name": "Iceclops",
+      "fullname": "Iceclops",
+      "gender": "Male",
       "id": "73J4",
       "url": "https://adventuretimeapi.herokuapp.com/people/73J4"
-    },
-    {
-      "name": "",
-      "fullname": "",
-      "gender": "",
-      "id": "QMrd",
-      "url": "https://adventuretimeapi.herokuapp.com/people/QMrd"
-    },
-    {
-      "name": "",
-      "fullname": "",
-      "gender": "",
-      "id": "b5WO",
-      "url": "https://adventuretimeapi.herokuapp.com/people/b5WO"
-    },
-    {
-      "name": "",
-      "fullname": "",
-      "gender": "",
-      "id": "nDa8",
-      "url": "https://adventuretimeapi.herokuapp.com/people/nDa8"
-    },
-    {
-      "name": "",
-      "fullname": "",
-      "gender": "",
-      "id": "lV6A",
-      "url": "https://adventuretimeapi.herokuapp.com/people/lV6A"
-    },
-    {
-      "name": "",
-      "fullname": "",
-      "gender": "",
-      "id": "zNwq",
-      "url": "https://adventuretimeapi.herokuapp.com/people/zNwq"
-    },
-    {
-      "name": "",
-      "fullname": "",
-      "gender": "",
-      "id": "KAny",
-      "url": "https://adventuretimeapi.herokuapp.com/people/KAny"
     }
   ],
   "places": [
@@ -232,8 +190,7 @@
         "https://adventuretimeapi.herokuapp.com/people/eLd7",
         "https://adventuretimeapi.herokuapp.com/people/Lz2b",
         "https://adventuretimeapi.herokuapp.com/people/p3kM",
-        "https://adventuretimeapi.herokuapp.com/people/xAMz",
-        "https://adventuretimeapi.herokuapp.com/people/Bk4N"
+        "https://adventuretimeapi.herokuapp.com/people/xAMz"
       ],
       "id": "rOwQ",
       "url": "https://adventuretimeapi.herokuapp.com/places/rOwQ"
@@ -245,16 +202,15 @@
         "Southwestern Ooo"
       ],
       "rulers": [
-        "https://adventuretimeapi.herokuapp.com/people/mVq1",
-        "https://adventuretimeapi.herokuapp.com/people/2Qyp"
+        "https://adventuretimeapi.herokuapp.com/people/Bk4N",
+        "https://adventuretimeapi.herokuapp.com/people/mVq1"
       ],
       "residents": [
+        "https://adventuretimeapi.herokuapp.com/people/Bk4N",
         "https://adventuretimeapi.herokuapp.com/people/mVq1",
         "https://adventuretimeapi.herokuapp.com/people/2Qyp",
         "https://adventuretimeapi.herokuapp.com/people/1yJP",
-        "https://adventuretimeapi.herokuapp.com/people/3Bwx",
-        "https://adventuretimeapi.herokuapp.com/people/XBKJ",
-        "https://adventuretimeapi.herokuapp.com/people/8RlJ"
+        "https://adventuretimeapi.herokuapp.com/people/3Bwx"
       ],
       "id": "5JV1",
       "url": "https://adventuretimeapi.herokuapp.com/places/5JV1"
@@ -274,18 +230,16 @@
         "https://adventuretimeapi.herokuapp.com/people/r6Je",
         "https://adventuretimeapi.herokuapp.com/people/53YK",
         "https://adventuretimeapi.herokuapp.com/people/eLd7",
-        "https://adventuretimeapi.herokuapp.com/people/RP5w",
+        "https://adventuretimeapi.herokuapp.com/people/XBKJ",
         "https://adventuretimeapi.herokuapp.com/people/xAMz",
+        "https://adventuretimeapi.herokuapp.com/people/8RlJ",
+        "https://adventuretimeapi.herokuapp.com/people/RP5w",
         "https://adventuretimeapi.herokuapp.com/people/arPo",
+        "https://adventuretimeapi.herokuapp.com/people/Lz2b",
         "https://adventuretimeapi.herokuapp.com/people/wQW3",
         "https://adventuretimeapi.herokuapp.com/people/W04g",
-        "https://adventuretimeapi.herokuapp.com/people/Lz2b",
         "https://adventuretimeapi.herokuapp.com/people/VPoe",
-        "https://adventuretimeapi.herokuapp.com/people/q3aW",
-        "https://adventuretimeapi.herokuapp.com/people/JA35",
-        "https://adventuretimeapi.herokuapp.com/people/DkQg",
-        "https://adventuretimeapi.herokuapp.com/people/OPVn",
-        "https://adventuretimeapi.herokuapp.com/people/73J4"
+        "https://adventuretimeapi.herokuapp.com/people/q3aW"
       ],
       "id": "eW7Z",
       "url": "https://adventuretimeapi.herokuapp.com/places/eW7Z"
@@ -299,9 +253,7 @@
       "rulers": [
         "https://adventuretimeapi.herokuapp.com/people/p3kM"
       ],
-      "residents": [
-        "https://adventuretimeapi.herokuapp.com/people/Bk4N"
-      ],
+      "residents": [],
       "id": "pRAN",
       "url": "https://adventuretimeapi.herokuapp.com/places/pRAN"
     },
@@ -310,11 +262,9 @@
       "type": "Demon World",
       "location": [],
       "rulers": [
-        "https://adventuretimeapi.herokuapp.com/people/b5WO"
+        "https://adventuretimeapi.herokuapp.com/people/JA35"
       ],
-      "residents": [
-        "https://adventuretimeapi.herokuapp.com/people/QMrd"
-      ],
+      "residents": [],
       "id": "Lal3",
       "url": "https://adventuretimeapi.herokuapp.com/places/Lal3"
     },
@@ -326,14 +276,13 @@
       ],
       "rulers": [
         "https://adventuretimeapi.herokuapp.com/people/Lz2b",
-        "https://adventuretimeapi.herokuapp.com/people/nDa8"
+        "https://adventuretimeapi.herokuapp.com/people/DkQg"
       ],
       "residents": [
         "https://adventuretimeapi.herokuapp.com/people/Lz2b",
-        "https://adventuretimeapi.herokuapp.com/people/nDa8",
-        "https://adventuretimeapi.herokuapp.com/people/lV6A",
-        "https://adventuretimeapi.herokuapp.com/people/zNwq",
-        "https://adventuretimeapi.herokuapp.com/people/KAny"
+        "https://adventuretimeapi.herokuapp.com/people/DkQg",
+        "https://adventuretimeapi.herokuapp.com/people/OPVn",
+        "https://adventuretimeapi.herokuapp.com/people/73J4"
       ],
       "id": "okwL",
       "url": "https://adventuretimeapi.herokuapp.com/places/okwL"
