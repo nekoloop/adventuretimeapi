@@ -5,7 +5,7 @@ info:
     # Adventure Time API
       The [Adventure Time API](https://adventuretimeapi.herokuapp.com) catalogs the people, places, and things found in [Adventure Time Wikia](http://adventuretime.wikia.com/wiki/Adventure_Time_with_Finn_and_Jake_Wiki). It was created as a resource for REST API testing and prototyping purposes.
 
-  version: 0.1.0
+  version: 1.0.0
   x-logo:
     url: ./images/logo.png
     backgroundColor: '#FFFFFF'

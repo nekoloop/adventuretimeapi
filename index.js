@@ -1,6 +1,4 @@
 const app = require('./src/app')
-const port = process.env.PORT || 3000
-
-app.listen(port, () => {
-  console.log('JSONPlaceholder listening on http://127.0.0.1:' + port)
-})
+app.listen(process.env.PORT || 3000, function () {
+  console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
+});
