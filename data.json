@@ -1,0 +1,306 @@
+{
+  "people": [
+    {
+      "name": "Finn",
+      "fullname": "Finn Mertens",
+      "gender": "Male",
+      "id": "r6Je",
+      "url": "https://adventuretimeapi.herokuapp.com/people/r6Je"
+    },
+    {
+      "name": "Jake",
+      "fullname": "Jake the Dog",
+      "gender": "Male",
+      "id": "53YK",
+      "url": "https://adventuretimeapi.herokuapp.com/people/53YK"
+    },
+    {
+      "name": "BMO",
+      "fullname": "BMO",
+      "gender": "N/A",
+      "id": "eLd7",
+      "url": "https://adventuretimeapi.herokuapp.com/people/eLd7"
+    },
+    {
+      "name": "Princess Bubblegum",
+      "fullname": "Bonnibel Bubblegum",
+      "gender": "Female",
+      "id": "p3kM",
+      "url": "https://adventuretimeapi.herokuapp.com/people/p3kM"
+    },
+    {
+      "name": "Ice King",
+      "fullname": "Simon Petrikov",
+      "gender": "Male",
+      "id": "Lz2b",
+      "url": "https://adventuretimeapi.herokuapp.com/people/Lz2b"
+    },
+    {
+      "name": "Lumpy Space Princess",
+      "fullname": "Lumpy Space Princess",
+      "gender": "Female",
+      "id": "oy0K",
+      "url": "https://adventuretimeapi.herokuapp.com/people/oy0K"
+    },
+    {
+      "name": "Lady Rainicorn",
+      "fullname": "Lady Rainicorn",
+      "gender": "Female",
+      "id": "4jXl",
+      "url": "https://adventuretimeapi.herokuapp.com/people/4jXl"
+    },
+    {
+      "name": "Marceline",
+      "fullname": "Marceline Abadeer",
+      "gender": "Female",
+      "id": "xAMz",
+      "url": "https://adventuretimeapi.herokuapp.com/people/xAMz"
+    },
+    {
+      "name": "Flame King",
+      "fullname": "Flame King",
+      "gender": "Male",
+      "id": "Bk4N",
+      "url": "https://adventuretimeapi.herokuapp.com/people/Bk4N"
+    },
+    {
+      "name": "Flame Princess",
+      "fullname": "Phoebe",
+      "gender": "Female",
+      "id": "mVq1",
+      "url": "https://adventuretimeapi.herokuapp.com/people/mVq1"
+    },
+    {
+      "name": "Fire Wolves",
+      "fullname": "Fire Wolves",
+      "gender": "N/A",
+      "id": "2Qyp",
+      "url": "https://adventuretimeapi.herokuapp.com/people/2Qyp"
+    },
+    {
+      "name": "Flambo",
+      "fullname": "Flambo",
+      "gender": "Male",
+      "id": "1yJP",
+      "url": "https://adventuretimeapi.herokuapp.com/people/1yJP"
+    },
+    {
+      "name": "Cinnamon Bun",
+      "fullname": "Cinnamon Bun",
+      "gender": "Male",
+      "id": "3Bwx",
+      "url": "https://adventuretimeapi.herokuapp.com/people/3Bwx"
+    },
+    {
+      "name": "Neptr",
+      "fullname": "Never Ending Pie Throwing Robot",
+      "gender": "N/A",
+      "id": "XBKJ",
+      "url": "https://adventuretimeapi.herokuapp.com/people/XBKJ"
+    },
+    {
+      "name": "Ash",
+      "fullname": "Ash",
+      "gender": "Male",
+      "id": "8RlJ",
+      "url": "https://adventuretimeapi.herokuapp.com/people/8RlJ"
+    },
+    {
+      "name": "Lorraine",
+      "fullname": "Lorraine",
+      "gender": "Female",
+      "id": "RP5w",
+      "url": "https://adventuretimeapi.herokuapp.com/people/RP5w"
+    },
+    {
+      "name": "CMO",
+      "fullname": "CMO",
+      "gender": "N/A",
+      "id": "arPo",
+      "url": "https://adventuretimeapi.herokuapp.com/people/arPo"
+    },
+    {
+      "name": "Sea Lard",
+      "fullname": "Sea Lard",
+      "gender": "N/A",
+      "id": "wQW3",
+      "url": "https://adventuretimeapi.herokuapp.com/people/wQW3"
+    },
+    {
+      "name": "Shelby",
+      "fullname": "Shelby Butterson",
+      "gender": "Male",
+      "id": "W04g",
+      "url": "https://adventuretimeapi.herokuapp.com/people/W04g"
+    },
+    {
+      "name": "Lionel",
+      "fullname": "Lionel",
+      "gender": "Male",
+      "id": "VPoe",
+      "url": "https://adventuretimeapi.herokuapp.com/people/VPoe"
+    },
+    {
+      "name": "Fern",
+      "fullname": "Fern",
+      "gender": "Male",
+      "id": "q3aW",
+      "url": "https://adventuretimeapi.herokuapp.com/people/q3aW"
+    },
+    {
+      "name": "Hunson Abadeer",
+      "fullname": "Hunson Abadeer",
+      "gender": "Male",
+      "id": "JA35",
+      "url": "https://adventuretimeapi.herokuapp.com/people/JA35"
+    },
+    {
+      "name": "Gunter",
+      "fullname": "Gunter",
+      "gender": "Male",
+      "id": "DkQg",
+      "url": "https://adventuretimeapi.herokuapp.com/people/DkQg"
+    },
+    {
+      "name": "Snow Golem",
+      "fullname": "Snow Golem",
+      "gender": "Male",
+      "id": "OPVn",
+      "url": "https://adventuretimeapi.herokuapp.com/people/OPVn"
+    },
+    {
+      "name": "Iceclops",
+      "fullname": "Iceclops",
+      "gender": "Male",
+      "id": "73J4",
+      "url": "https://adventuretimeapi.herokuapp.com/people/73J4"
+    }
+  ],
+  "places": [
+    {
+      "name": "Land of Ooo",
+      "type": "Island",
+      "location": [
+        "Post-apocalyptic Earth"
+      ],
+      "rulers": [],
+      "residents": [
+        "https://adventuretimeapi.herokuapp.com/people/r6Je",
+        "https://adventuretimeapi.herokuapp.com/people/53YK",
+        "https://adventuretimeapi.herokuapp.com/people/eLd7",
+        "https://adventuretimeapi.herokuapp.com/people/Lz2b",
+        "https://adventuretimeapi.herokuapp.com/people/p3kM",
+        "https://adventuretimeapi.herokuapp.com/people/xAMz"
+      ],
+      "id": "rOwQ",
+      "url": "https://adventuretimeapi.herokuapp.com/places/rOwQ"
+    },
+    {
+      "name": "Fire Kingdom",
+      "type": "Kingdom",
+      "location": [
+        "Southwestern Ooo"
+      ],
+      "rulers": [
+        "https://adventuretimeapi.herokuapp.com/people/Bk4N",
+        "https://adventuretimeapi.herokuapp.com/people/mVq1"
+      ],
+      "residents": [
+        "https://adventuretimeapi.herokuapp.com/people/Bk4N",
+        "https://adventuretimeapi.herokuapp.com/people/mVq1",
+        "https://adventuretimeapi.herokuapp.com/people/2Qyp",
+        "https://adventuretimeapi.herokuapp.com/people/1yJP",
+        "https://adventuretimeapi.herokuapp.com/people/3Bwx"
+      ],
+      "id": "5JV1",
+      "url": "https://adventuretimeapi.herokuapp.com/places/5JV1"
+    },
+    {
+      "name": "Tree Fort",
+      "type": "Home",
+      "location": [
+        "Grass Lands",
+        "Candy Kingdom territory"
+      ],
+      "rulers": [
+        "https://adventuretimeapi.herokuapp.com/people/r6Je",
+        "https://adventuretimeapi.herokuapp.com/people/53YK"
+      ],
+      "residents": [
+        "https://adventuretimeapi.herokuapp.com/people/r6Je",
+        "https://adventuretimeapi.herokuapp.com/people/53YK",
+        "https://adventuretimeapi.herokuapp.com/people/eLd7",
+        "https://adventuretimeapi.herokuapp.com/people/XBKJ",
+        "https://adventuretimeapi.herokuapp.com/people/xAMz",
+        "https://adventuretimeapi.herokuapp.com/people/8RlJ",
+        "https://adventuretimeapi.herokuapp.com/people/RP5w",
+        "https://adventuretimeapi.herokuapp.com/people/arPo",
+        "https://adventuretimeapi.herokuapp.com/people/Lz2b",
+        "https://adventuretimeapi.herokuapp.com/people/wQW3",
+        "https://adventuretimeapi.herokuapp.com/people/W04g",
+        "https://adventuretimeapi.herokuapp.com/people/VPoe",
+        "https://adventuretimeapi.herokuapp.com/people/q3aW"
+      ],
+      "id": "eW7Z",
+      "url": "https://adventuretimeapi.herokuapp.com/places/eW7Z"
+    },
+    {
+      "name": "Candy Kingdom",
+      "type": "Principality",
+      "location": [
+        "Land of Ooo"
+      ],
+      "rulers": [
+        "https://adventuretimeapi.herokuapp.com/people/p3kM"
+      ],
+      "residents": [],
+      "id": "pRAN",
+      "url": "https://adventuretimeapi.herokuapp.com/places/pRAN"
+    },
+    {
+      "name": "Nightosphere",
+      "type": "Demon World",
+      "location": [],
+      "rulers": [
+        "https://adventuretimeapi.herokuapp.com/people/JA35"
+      ],
+      "residents": [],
+      "id": "Lal3",
+      "url": "https://adventuretimeapi.herokuapp.com/places/Lal3"
+    },
+    {
+      "name": "Ice Kingdom",
+      "type": "Kingdom",
+      "location": [
+        "Land of Ooo"
+      ],
+      "rulers": [
+        "https://adventuretimeapi.herokuapp.com/people/Lz2b",
+        "https://adventuretimeapi.herokuapp.com/people/DkQg"
+      ],
+      "residents": [
+        "https://adventuretimeapi.herokuapp.com/people/Lz2b",
+        "https://adventuretimeapi.herokuapp.com/people/DkQg",
+        "https://adventuretimeapi.herokuapp.com/people/OPVn",
+        "https://adventuretimeapi.herokuapp.com/people/73J4"
+      ],
+      "id": "okwL",
+      "url": "https://adventuretimeapi.herokuapp.com/places/okwL"
+    },
+    {
+      "name": "Marceline\u0027s House",
+      "type": "Home",
+      "location": [
+        "Marceline\u0027s cave"
+      ],
+      "rulers": [
+        "https://adventuretimeapi.herokuapp.com/people/xAMz"
+      ],
+      "residents": [
+        "https://adventuretimeapi.herokuapp.com/people/xAMz"
+      ],
+      "id": "4yq4",
+      "url": "https://adventuretimeapi.herokuapp.com/places/4yq4"
+    }
+  ]
+}
